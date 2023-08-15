@@ -15,7 +15,7 @@ of access for all.
 ## Back-end:
 
 * Spring-boot (With Java)
-* AWS (EC2, Lambda Functions, VPC, S3, SQS, Translate)
+* AWS (Cloud Formation, EC2, Lambda Functions, VPC, S3, SQS, Translate)
     
 ## Deployment:
 
